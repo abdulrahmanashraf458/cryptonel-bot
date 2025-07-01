@@ -1,0 +1,4 @@
+discord.py
+py-cord
+python-dotenv
+pymongo 

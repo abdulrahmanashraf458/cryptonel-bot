@@ -1,0 +1,1 @@
+# This file makes the wallet directory a Python package 
